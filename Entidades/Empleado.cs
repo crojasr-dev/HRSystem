@@ -12,5 +12,7 @@ namespace WenApi.Entidades
 
         public string Cargo { get; set; }
 
+        
+
     }
 }
